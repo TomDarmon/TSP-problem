@@ -1,6 +1,8 @@
 # TSP-problem
 This is an implementation of simulated annealing applied to the TSP problem (in Matplotlib)
 
+[IMG-0993.png](https://postimg.cc/67cbZSkb)
+
 Files : 
 
   - Simann :  is a function that receives a problem object with cost, propose_move, compute_delta_cost, accept_move and display method.
