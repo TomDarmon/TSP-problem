@@ -1,7 +1,7 @@
 # TSP-problem
 This is an implementation of simulated annealing applied to the TSP problem (in Matplotlib)
 
-[IMG-0993.png](https://postimg.cc/67cbZSkb)
+[![IMG-0993.png](https://i.postimg.cc/Pxsggn2H/IMG-0993.png)](https://postimg.cc/67cbZSkb)
 
 Files : 
 
